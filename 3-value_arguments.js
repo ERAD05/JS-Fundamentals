@@ -5,4 +5,4 @@ function printFirstArgument(arg1, ...args) {
 // Example usage:
 printFirstArgument("Hello", "World", 123); // Prints "Hello"
 printFirstArgument(42);                  // Prints 42
-printFirstArgument();                    // Prints undefined (if no arguments are passed)
+printFirstArgument();                    // Prints undefined (if no arguments are passed)...
