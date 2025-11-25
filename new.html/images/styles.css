@@ -1,12 +1,15 @@
 h1 {
     color: green;
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
 h2 {
     color: rgb(201, 94, 7);
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
 h3 {
     color: blue;
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }   
