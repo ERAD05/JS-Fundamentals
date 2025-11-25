@@ -1,0 +1,10 @@
+h1 {
+    color: blue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h2 {
+    color: rgb(201, 50, 107);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+}
